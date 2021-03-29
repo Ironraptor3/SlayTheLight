@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Slay the Light Christmas Edition",
+"productVersion": "0.1",
+"dataUrl": "Slay_The_Light.data.unityweb",
+"wasmCodeUrl": "Slay_The_Light.wasm.code.unityweb",
+"wasmFrameworkUrl": "Slay_The_Light.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
